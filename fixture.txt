@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>ks_performance_VerifyOptionPresentByLabelKeyword</title>
+</head>
+<body>
+<div id="main">
+<select id="combo_facility" name="facility">
+    <option value="1">Label1</option>
+    <option value="2">Label2</option>
+    <option value="3">Label3</option>
+    <option value="4">Label4</option>
+    <option value="5">Label5</option>
+    <option value="6">Label6</option>
+    <option value="7">Label7</option>
+    <option value="8">Label8</option>
+    <option value="9">Label9</option>
+</select>
+</div>
+</option>
+</html>
